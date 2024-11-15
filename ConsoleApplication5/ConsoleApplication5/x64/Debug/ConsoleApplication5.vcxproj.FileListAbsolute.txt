@@ -1,3 +1,0 @@
-D:\winD\IT\CLR\ConsoleApplication5\ConsoleApplication5\x64\Debug\ConsoleApplication5.vcxproj.AssemblyReference.cache
-D:\winD\IT\CLR\ConsoleApplication5\ConsoleApplication5\x64\Debug\ConsoleApplication5.MyForm.resources
-D:\winD\IT\CLR\ConsoleApplication5\ConsoleApplication5\x64\Debug\ConsoleApplication5.vcxproj.GenerateResource.cache
